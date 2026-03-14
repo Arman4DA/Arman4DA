@@ -1,16 +1,35 @@
-## Hi there 👋
+# ARMAN <3
+==================
 
-<!--
-**Arman4DA/Arman4DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Aspiring Data Analyst | Turning raw data into real insights*
 
-Here are some ideas to get you started:
+> Diving deep into data, finding patterns that matter, and telling stories through numbers. Always learning, always growing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------
+Connect With Me
+
+» Portfolio     →
+» LinkedIn      → https://www.linkedin.com/in/Armanhere/
+» Email         → Armansosuke4@gmail.com
+» IG            → https://x.com/Armansan4
+» KAGGLE        → https://kaggle.com/Arman4
+--------------
+Skills & Tools
+
+» Analytics: 
+» Database:
+» Viz:
+» Other:
+
+
+-----------------
+Featured Projects
+
+
+
+--------------------------
+Thanks for stopping by! :)
+
+*"Data is the new oil — and I'm here to refine it."* 🔥
+
+Let's build something cool together <3
